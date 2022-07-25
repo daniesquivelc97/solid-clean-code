@@ -1,4 +1,4 @@
-import './clean-code/06-classes-c';
+import './clean-code/07-homework';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
