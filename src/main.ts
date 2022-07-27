@@ -1,4 +1,4 @@
-import './solid/03-liskov-a';
+import './solid/05-dependency-a';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
