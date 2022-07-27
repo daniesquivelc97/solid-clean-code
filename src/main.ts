@@ -1,4 +1,4 @@
-import './clean-code/07-homework';
+import './solid/02-open-close-a';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
